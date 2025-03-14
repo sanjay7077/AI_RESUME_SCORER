@@ -1,0 +1,4 @@
+groq
+python-dotenv
+streamlit
+PyPDF2  # for PDF processing
