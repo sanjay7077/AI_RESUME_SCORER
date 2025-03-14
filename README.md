@@ -1,9 +1,9 @@
 # AI_RESUME_SCORER
 
 ## Requirements
-groq
-python-dotenv
-streamlit
+groq /n
+python-dotenv /n
+streamlit /n
 PyPDF2  # for PDF processing
 
 ## process
